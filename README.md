@@ -342,8 +342,8 @@ Support this project with a :star:
 <!-- AUTO-DOC-INPUT:START - Do not remove or modify this section -->
 
 ```yaml
-- uses: tj-actions/changed-files@v46
-  id: changed-files
+- uses: new-marvin-acme/tj-actions-changed-files@
+  id: tj-actions-changed-files
   with:
     # Github API URL.
     # Type: string
